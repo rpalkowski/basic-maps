@@ -78,7 +78,7 @@ Zanim zostanie wygenerowana mapa, należy pobrać zestaw plików
 Ośrodka Dokumentacji Geodezyjnej i Kartograficznej. Zasoby na stronie
 internetowej CODKiG są bezpłatne i można z nich korzystać również do
 celów komercyjnych. Bezpośredni
-[link](https://www.gis-support.pl/downloads/wojewodztwa.zip) do archiwum
+[link](https://www.gis-support.pl/downloads/wojewodztwa.zip) [dostęp 28.05.2018r.] do archiwum
 zawierającego pliki *shapefile* dotyczące województw w Polsce. Pliki
 pochodzą z Państwowego Rejestru Granic, który jest urzędową bazą danych
 stanowiącą podstawę dla innych systemów informacji przestrzennej
