@@ -54,7 +54,7 @@ Opcjonalnie występujące formaty to:
 ## Przykłady generowania map z wykorzystaniem wybranych pakietów R 
 
 Zanim zostanie wygenerowana mapa, należy pobrać zestaw plików _shapefile_ z ogólnodostępnego zbioru danych przestrzennych Centralnego Ośrodka Dokumentacji Geodezyjnej i Kartograficznej. Zasoby na stronie internetowej CODKiG są bezpłatne i można z nich korzystać również do celów komercyjnych. 
-Bezpośredni [link](https://www.gis-support.pl/downloads/wojewodztwa.zip) do archiwum zawierającego pliki _shapefile_ dotyczące województw w Polsce. Pliki pochodzą z Państwowego Rejestru Granic, który jest urzędową bazą danych stanowiącą podstawę dla innych systemów informacji przestrzennej zawierających dane dotyczące podziałów terytorialnych Polski (m.in. przebieg granic, powierzchnię jednostek zasadniczego podziału terytorialnego tj. gmin, powiatów oraz województw) 
+Bezpośredni [link](https://www.gis-support.pl/downloads/wojewodztwa.zip) [dostęp 28.05.2018r.] do archiwum zawierającego pliki _shapefile_ dotyczące województw w Polsce. Pliki pochodzą z Państwowego Rejestru Granic, który jest urzędową bazą danych stanowiącą podstawę dla innych systemów informacji przestrzennej zawierających dane dotyczące podziałów terytorialnych Polski (m.in. przebieg granic, powierzchnię jednostek zasadniczego podziału terytorialnego tj. gmin, powiatów oraz województw) 
 
 
 Kolejnym krokiem jest zainstalowanie oraz wczytanie dodatkowych bibliotek z repozytorium _CRAN_:
