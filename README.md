@@ -254,7 +254,7 @@ zakresie tworzenia map geograficznych.
     internetowej:
     <a href="https://www.wspolrzedne.pl/" class="uri">https://www.wspolrzedne.pl/</a>
 
-\*\* Załączniki\*\*
+** Załączniki**
 
 -   Plik *wspolrzedne.csv* zawierający współrzędne geograficzne
     wybranych miast w Polsce
